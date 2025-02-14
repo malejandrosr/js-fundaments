@@ -16,5 +16,6 @@ class Rectangle {
 const rec = new Rectangle(10, 20);
 
 // rec.#area = 200;
+// rec.#calculateArea(); // 400
 
 console.log(rec); // 200
